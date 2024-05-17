@@ -27,7 +27,7 @@
 <i>
 <br />
   
-> Sou Desenvolvedor de Software, graduado em Sistemas de Informação e Pós em Desenvolvimento Web, possuo experiencia em desenvolvimento de software com a linguagem de programação C#, banco de dados relacional e Não relacional, SQL, ASP.NET MVC, Teste de Software, SOLID para garantir a manutenibilidade e a escalabilidade do código e também conheço os princípios da metodologia ágil para entregar valor aos clientes de forma rápida e eficiente. 
+> Sou Desenvolvedor de Software, graduado em Sistemas de Informação e Pós em Desenvolvimento Web, possuo experiência em desenvolvimento de software com a linguagem de programação C#, banco de dados relacional e Não relacional, SQL, ASP.NET MVC, Teste de Software, SOLID para garantir a manutenibilidade e a escalabilidade do código e também conheço os princípios da metodologia ágil para entregar valor aos clientes de forma rápida e eficiente. 
 
 > Estou sempre buscando me atualizar e aprender novas ferramentas e metodologias para criar soluções inovadoras e de qualidade. Meu objetivo profissional é continuar crescendo na área de desenvolvimento de sistemas, buscando novos desafios e oportunidades de aprendizado. 
 
